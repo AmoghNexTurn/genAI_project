@@ -1,0 +1,414 @@
+00:00:00.160 this video is supported by skillshare
+00:00:03.919 last month on july 13th the united
+00:00:06.160 states saw the end of an era
+00:00:08.160 it happened quietly most people had no
+00:00:10.080 idea it even happened but it marked the
+00:00:11.840 final nail in the coffin of a technology
+00:00:13.840 that helped shape public opinion for
+00:00:16.000 nearly 80 years
+00:00:17.760 that thing
+00:00:18.960 was the ntsc broadcast signal the ntsc
+00:00:21.920 analog standard was adopted in 1941 and
+00:00:24.240 was used to broadcast standard
+00:00:25.359 definition tv signals until 2009 when it
+00:00:28.240 was replaced by the digital standard
+00:00:29.679 called atsc they can handle higher
+00:00:31.760 compression technologies and resolutions
+00:00:33.680 the major broadcast stations uh switched
+00:00:36.079 over back then but there were some
+00:00:37.440 smaller stations that kind of kept going
+00:00:39.200 with their 525 line signals that became
+00:00:41.840 known as franken-fm stations they were
+00:00:44.000 supposed to go quiet in 2015 but for
+00:00:45.840 various reasons that got pushed back to
+00:00:47.360 2021 and yeah now they're gone for good
+00:00:50.960 think about all the biggest news events
+00:00:52.480 of the 20th century the moon landings
+00:00:54.960 the assassination of jfk the challenger
+00:00:56.800 disaster we watched all of those things
+00:00:58.960 through the ntsc standard and now it's
+00:01:01.120 gone
+00:01:02.320 and if you're anything like me you're
+00:01:03.520 hearing this news right now and all you
+00:01:05.438 can think is
+00:01:07.439 those are still around
+00:01:09.520 the world changes and technology changes
+00:01:11.840 with it and vice versa
+00:01:13.600 and right now we're seeing a major shift
+00:01:15.280 happening in the energy sector as well
+00:01:17.280 new technologies are springing up left
+00:01:18.880 and right to facilitate cleaner more
+00:01:20.560 stable renewable energy especially in
+00:01:22.799 the field of energy storage so today
+00:01:24.640 let's take a look at one of the newer
+00:01:25.840 concepts that's helping to speed this
+00:01:27.200 transition along and this idea
+00:01:30.799 is pretty metal
+00:01:34.030 [Music]
+00:01:35.600 if humans are going to survive into the
+00:01:37.040 next century we have to curb our
+00:01:38.479 addiction on fossil fuels some experts
+00:01:40.720 say that we're already past the tipping
+00:01:42.000 point unless some drastic changes are
+00:01:43.520 made not gonna lie it looks pretty bleak
+00:01:46.799 but there are reasons for hope china
+00:01:48.799 recently committed to being carbon
+00:01:50.079 neutral by 2060 and solar power so
+00:01:52.079 popular in australia the fuel industry
+00:01:53.759 there is suffering a minor crisis yay
+00:01:55.840 crisis
+00:01:57.439 i mean obviously a crisis isn't good but
+00:01:59.119 this is fossil fuel but
+00:02:02.320 i don't know how i feel about that
+00:02:04.159 green energy is booming obviously that's
+00:02:06.079 a great thing for the planet but it's
+00:02:08.160 almost a victim of its own success
+00:02:10.318 because our energy grid was made to
+00:02:12.080 deliver energy not store it for a rainy
+00:02:14.319 day and by that i mean a literal rainy
+00:02:16.480 day when there's not as much solar power
+00:02:18.400 coming in renewable energy needs some
+00:02:20.400 kind of storage solution in order to
+00:02:21.840 meet 24 7 365 demand simply put our grid
+00:02:25.200 needs to be able to store energy as well
+00:02:27.200 as move it around tesla of course is
+00:02:29.120 leveraging their lithium ion battery
+00:02:30.879 production to put into packs that power
+00:02:33.599 homes and neighborhoods and communities
+00:02:35.840 and they're doing amazing stuff for sure
+00:02:38.560 but lithium ion has its drawbacks like
+00:02:40.640 thermal runaway when lithium-ion
+00:02:42.560 batteries overheat they can explode so
+00:02:44.879 they require a lot of cooling and
+00:02:46.239 engineering to keep the temperature down
+00:02:48.080 and these systems contain thousands of
+00:02:49.599 batteries so if one battery goes down it
+00:02:51.440 can start a chain reaction that can set
+00:02:53.200 off all the others plus they degrade
+00:02:54.959 over time they're not easy to recycle
+00:02:57.360 don't get me wrong lithium-ion batteries
+00:02:59.360 are great for mobile applications that's
+00:03:01.280 what they're made for
+00:03:03.040 but who says that one battery has to do
+00:03:04.800 it all in stationary applications there
+00:03:06.800 may be some other battery technologies
+00:03:08.319 that might be more scalable and reliable
+00:03:10.239 and won't degrade so much over time i
+00:03:12.480 talked previously about flow batteries
+00:03:14.080 and the potential that they have flow
+00:03:15.599 batteries they actually use a liquid
+00:03:17.599 electrolyte to sort of store all the
+00:03:19.280 energy in
+00:03:20.640 this idea is similar to that except that
+00:03:22.720 liquid that we're talking about
+00:03:24.799 is molten metal about a hundred years
+00:03:26.879 ago william hoops at the aluminum
+00:03:28.400 company of america patented a process
+00:03:30.159 for refining aluminum in the hoops
+00:03:32.080 process crude aluminum alloys purified
+00:03:34.239 by passing electric current through a
+00:03:35.680 tank the tank contains liquid alloy
+00:03:37.920 molten salt and pre-purified liquid
+00:03:39.599 aluminum since the salt is less dense
+00:03:41.280 than the alloy and the aluminum is less
+00:03:42.879 dense than the salt the three chemicals
+00:03:44.640 float in layers like oil and vinegar in
+00:03:46.560 a salad dressing adding currant causes
+00:03:48.640 aluminum ions to leave the alloy move up
+00:03:50.959 through the salt and add to the top
+00:03:52.640 layer of pure aluminum and with that
+00:03:54.319 they can just skim the aluminum off the
+00:03:56.159 surface and the process is complete
+00:03:58.400 but here's the thing during this process
+00:04:02.159 this is basically a rechargeable battery
+00:04:04.480 several inventors picked up on this idea
+00:04:06.159 and started developing batteries like
+00:04:07.760 this around 1960 but
+00:04:09.920 were kind of stalled on liquid metal
+00:04:11.760 batteries around 1976 when lithium ion
+00:04:14.239 started gaining steam fast forward to
+00:04:16.399 the early 2000s when dr donald saddleway
+00:04:18.720 of mit started thinking about grid
+00:04:20.478 energy storage solutions he also
+00:04:22.240 happened to be studying aluminum
+00:04:23.520 processing at the time and he thought
+00:04:24.800 that there might be some potential there
+00:04:26.400 so with some help from his grad students
+00:04:28.080 he started testing out different battery
+00:04:29.520 chemistry starting around 2009 and he
+00:04:32.000 clearly saw something that he liked
+00:04:33.360 because one year later he created a
+00:04:35.360 company called ambry ambry was set up to
+00:04:37.680 work specifically on liquid metal
+00:04:39.280 batteries and they started perfecting
+00:04:40.560 their chemistry over the year and then
+00:04:42.400 last year in 2020 they signed a deal
+00:04:44.639 with terrascale to power one of their
+00:04:46.080 data centers this is a 250 megawatt hour
+00:04:48.800 power station that's supposed to go up
+00:04:50.160 in reno in 2022. so what are some of the
+00:04:52.639 biggest advantages to liquid metal
+00:04:54.560 batteries well two of the biggest are
+00:04:56.880 safety and durability which might sound
+00:04:58.960 weird considering that it's literally as
+00:05:00.800 hot as the surface of venus but the
+00:05:02.479 battery has what they call a
+00:05:03.600 fault-tolerant design
+00:05:05.520 each one of the cells is basically a
+00:05:07.120 steel vault that contains different
+00:05:08.960 metal chemistries when the cell is cold
+00:05:11.199 it's completely inert it's just it's
+00:05:12.960 just a brick basically but once it's
+00:05:14.880 heated up to 500 degrees celsius that's
+00:05:17.360 when the magic happens now this takes a
+00:05:19.120 little bit of energy to get started of
+00:05:20.400 course but once it's up to speed once
+00:05:22.080 it's you know heated up each one of the
+00:05:23.840 cells can heat up all the other cells in
+00:05:25.520 a thermal enclosure there are no
+00:05:27.199 combustible elements in the cell nothing
+00:05:28.880 to explode or flare out or anything and
+00:05:30.960 if it gets knocked over it basically
+00:05:32.800 just gets turned back into a metal block
+00:05:35.360 this is known as freezing and it's
+00:05:36.639 totally reversible you just heat it up
+00:05:38.320 and it starts working again but maybe
+00:05:40.000 the main advantage is durability because
+00:05:42.240 these liquid metal batteries they can
+00:05:43.759 last for decades and one of the
+00:05:45.520 downsides of lithium-ion batteries is
+00:05:47.360 that as the heat goes up and down as
+00:05:49.199 they're operated these hard metal
+00:05:51.360 components can flex and bend and these
+00:05:53.440 cause weaknesses that over time degrades
+00:05:56.080 the performance but there are no solid
+00:05:57.919 components in a liquid metal battery
+00:05:59.919 shooting those ions around in it are
+00:06:01.440 just like hitting a t-1000 with bullets
+00:06:08.319 liquid metal batteries are also immune
+00:06:09.919 to the dendrites the dreaded dendrites
+00:06:11.919 that can put down lithium ion cells and
+00:06:14.080 cause them to short out there's just
+00:06:15.520 there's just no place for dendrites to
+00:06:17.280 grow in a liquid environment but a third
+00:06:19.919 upside and this is a pretty big one
+00:06:22.000 is cost according to a report by
+00:06:23.759 bloomberg new energy finance costs per
+00:06:25.600 kilowatt hour could go as low as 17
+00:06:27.440 dollars compared to 51.2 dollars for
+00:06:29.520 lithium-ion systems now these are not
+00:06:31.520 current prices these are projections
+00:06:33.199 based off of the cost of materials and
+00:06:34.880 maintenance and economies of scale i
+00:06:36.639 mean we're dealing with extreme
+00:06:37.680 temperatures here but we're talking
+00:06:38.800 about just kind of pouring metals into a
+00:06:41.039 kiln as opposed to creating thousands of
+00:06:43.759 tiny little batteries and then having to
+00:06:45.680 cool them off and arrange them and
+00:06:47.199 engineer them and all that kind of stuff
+00:06:48.720 so the tesla mega packs are the gold
+00:06:50.240 standard right now how do these ambry
+00:06:51.680 batteries compare ambry advertises the
+00:06:53.599 maximum capacity of its standard 10 foot
+00:06:55.599 shipping container of liquid metal
+00:06:56.880 battery cells 600 cells total and a
+00:06:59.280 thousand kilowatt hours this means that
+00:07:01.120 the container can store or supply a
+00:07:02.479 thousand kilowatts of power per hour of
+00:07:04.400 operation a thousand kilowatt hours is
+00:07:06.560 enough to supply 34 average american
+00:07:08.479 homes for comparison a single tesla mega
+00:07:10.800 pack can supply 102 average american
+00:07:13.039 homes that's three times the homes but
+00:07:15.280 at three times the operating cost so
+00:07:17.199 it's kind of tomato tomato except
+00:07:19.120 there's no chance of it exploding and it
+00:07:20.560 lasts way longer three ambry containers
+00:07:22.800 have about the same footprint as two
+00:07:24.319 tesla mega packs so it's sort of like
+00:07:26.479 safety versus real estate but there is
+00:07:28.720 one advantage that the mega pack that
+00:07:30.240 tesla's mega pack has over the ambry
+00:07:31.919 battery and that's capability so
+00:07:34.160 capacity versus capability what's the
+00:07:36.240 difference well let's say you were
+00:07:37.520 drinking coke through a straw out of a
+00:07:40.160 bottle the bottle is capacity
+00:07:43.280 the straw
+00:07:44.479 is capability to increase capacity you
+00:07:46.639 can just put the straw in a two liter
+00:07:49.039 bottle as opposed to a 16 ounce bottle
+00:07:50.960 but to increase capability
+00:07:53.360 you need a bigger straw ambry's 10-foot
+00:07:55.280 container unit has a capability of
+00:07:57.520 kilowatts
+00:07:58.720 that is the max amount that it can push
+00:08:00.319 out tesla's biggest mega pack has over a
+00:08:02.639 1200 kilowatt capability now that's a
+00:08:05.039 different mega pack configuration than i
+00:08:06.400 was talking about earlier but that's
+00:08:08.160 kind of the point mega packs can be
+00:08:10.160 configured to work better for capability
+00:08:13.199 or capacity
+00:08:14.960 and from what i've been able to read
+00:08:16.160 anyway ambry's batteries don't really
+00:08:17.599 seem to be able to do that multiple
+00:08:19.120 ambry containers are connected in
+00:08:20.720 parallel so this is kind of like
+00:08:21.919 connecting one coke bottle to another
+00:08:24.319 one using a siphon so the capacity
+00:08:26.560 doubles it can be expanded on but the
+00:08:28.879 capability is the same so the choice
+00:08:30.720 actually comes down to real estate
+00:08:31.919 safety and application if you want to
+00:08:33.760 run energy efficient appliances on green
+00:08:35.760 energy at night ambry is a good solution
+00:08:38.000 but for more intensive applications like
+00:08:39.679 say
+00:08:40.479 charging cars a mega pack could probably
+00:08:42.799 be a better option again it is nowhere
+00:08:44.480 written that one battery solution should
+00:08:46.080 serve all of our needs you know more
+00:08:48.240 options are better now let's compare the
+00:08:50.080 liquid metal batteries with the flow
+00:08:51.360 batteries that i mentioned earlier flow
+00:08:52.959 batteries operate at a much more
+00:08:54.240 manageable temperature but their
+00:08:56.080 components and their chemicals are
+00:08:57.360 pretty toxic now the liquid metal
+00:08:59.040 battery has some toxic chemicals in it
+00:09:00.959 as well but the flow batteries operate
+00:09:02.720 at a temperature where it could turn
+00:09:03.920 into a vapor a recent government report
+00:09:06.080 on energy storage hazards said that flow
+00:09:08.080 batteries could cause a lethal spill of
+00:09:10.560 hydrochloric acid and flow battery
+00:09:12.560 chemicals are said to be really harmful
+00:09:13.920 to aquatic life so liquid metal
+00:09:15.680 batteries went out on the safety side of
+00:09:17.120 things again but when you go back to
+00:09:19.279 that capacity versus capability thing
+00:09:21.760 flow batteries can be configured to be
+00:09:23.279 better in both of those counts and cost
+00:09:25.200 wise flow batteries are expected to get
+00:09:26.720 down to around 25 dollars per kilowatt
+00:09:28.720 hour which is half of lithium ion but
+00:09:32.080 still more than liquid metal now it is
+00:09:33.839 worth mentioning that liquid metal
+00:09:35.519 batteries have some interesting
+00:09:36.480 applications in extreme environments
+00:09:38.720 since they generate their own heat they
+00:09:40.080 work well in arctic conditions as well
+00:09:41.519 as desert conditions ambry clients have
+00:09:43.519 asked about using some of the excess
+00:09:44.959 heat to just pipe into homes to heat up
+00:09:46.800 the homes and
+00:09:48.480 there's nothing saying that you can't
+00:09:49.680 use all this extra heat to you know turn
+00:09:51.920 water into steam and turn a turbine just
+00:09:53.839 like any other power station and i
+00:09:55.680 mentioned it earlier being about as hot
+00:09:57.120 as the surface of venus well it turns
+00:09:58.880 out that nasa's been talking to dr
+00:10:00.640 sadaway about using liquid metal
+00:10:02.240 batteries on a potential venus mission
+00:10:04.480 and i recently did a video talking about
+00:10:06.160 moon mining and what we can get from the
+00:10:07.600 regolith well it turns out that there's
+00:10:09.279 stuff in the moon regolith that you can
+00:10:11.440 use to make liquid metal batteries as
+00:10:12.959 well this is super interesting
+00:10:14.480 technology and it's just one of many
+00:10:16.079 different battery technologies that are
+00:10:17.440 kind of coming out right now each of
+00:10:19.040 them have their own use cases i'm sure i
+00:10:21.040 will cover all of them on the channel at
+00:10:22.480 some point energy storage is just going
+00:10:24.240 to be such a big thing in the next
+00:10:26.160 coming decades like i'm not a financial
+00:10:28.320 advisor this is not financial advice but
+00:10:30.880 absolutely close out all your accounts
+00:10:32.480 and put all your money into some kind of
+00:10:33.760 energy storage company as fast as
+00:10:35.360 renewable energy is growing it's the
+00:10:36.959 storage solutions for energy that are
+00:10:38.959 going to really get us to that day when
+00:10:40.800 where the news will quietly drop that
+00:10:43.040 the last fossil fuel station has shut
+00:10:44.880 down
+00:10:46.399 and we'll all be like
+00:10:48.160 those are still around
+00:10:49.839 so what do you think about the liquid
+00:10:51.040 metal battery do you think it has a
+00:10:52.720 place in our energy grid do you think
+00:10:54.240 it's just another idea that's going to
+00:10:55.519 fizzle out
+00:10:56.720 think you got a better idea do you think
+00:10:58.880 you can do better than this well if you
+00:11:00.880 do or you have any kind of big idea
+00:11:02.800 you'll probably at some point need to
+00:11:04.160 build a business around it and if that's
+00:11:05.600 something you need to get caught up on i
+00:11:07.120 can recommend the class art of the start
+00:11:09.200 turning ideas into high growth
+00:11:10.480 businesses on skillshare presented by
+00:11:12.560 guy kawasaki and bill reichert who have
+00:11:14.399 helped start hundreds of businesses
+00:11:15.760 including pandora they offer some of the
+00:11:17.760 best tips they've learned over the years
+00:11:19.120 and walk you through the process of
+00:11:20.399 starting launching fundraising pitching
+00:11:22.320 and marketing your big idea to turn it
+00:11:24.640 into a sustainable growing business some
+00:11:26.560 of you know i do have a side business
+00:11:28.160 called cankerboy and we've been kind of
+00:11:29.680 starting to redo some things on it it's
+00:11:32.160 it's a long story but uh no i watched
+00:11:34.320 this class to get some ideas on some
+00:11:35.839 things that that we could do there and
+00:11:37.519 i'm going to be using some of it it was
+00:11:38.720 really helpful this is of course just
+00:11:40.399 one of hundreds of courses you can take
+00:11:41.920 on skillshare covering design marketing
+00:11:43.839 social media photography music video
+00:11:46.480 production as well as productivity
+00:11:48.320 courses which i think we could all use
+00:11:49.680 help with skillshare's online classes
+00:11:51.920 are super affordable to the first
+00:11:53.279 thousand people to sign up with my link
+00:11:54.639 below we'll get a one month free trial
+00:11:56.240 of skillshare so you can start exploring
+00:11:57.839 your creativity today so shake things up
+00:12:00.160 try something new links down in the
+00:12:01.920 description big thanks to skillshare for
+00:12:03.839 supporting this video and a huge shout
+00:12:05.360 out to the answer files on patreon that
+00:12:07.120 are supporting this channel
+00:12:08.959 forming an awesome community and just
+00:12:10.399 being generally really cool people
+00:12:12.160 there's some new names i gotta murder
+00:12:13.440 real quick we've got hoozel
+00:12:15.519 uh fioril john humanist john pegg
+00:12:19.360 benjamin lambert melissa payan tristan
+00:12:22.399 jeff knutson patrick eakin and ashley
+00:12:25.360 castille why i struggle with those so
+00:12:27.360 much uh thank you guys so much if you
+00:12:29.120 would like to join them and get early
+00:12:30.480 access to videos uh get exclusive live
+00:12:32.880 streams and all kinds of fun stuff you
+00:12:34.480 can go to patreon.com
+00:12:36.800 please do like and share this video if
+00:12:38.399 you liked it and if this is your first
+00:12:39.519 time here google thinks you might like
+00:12:40.959 this video so you might want to check
+00:12:42.160 that out or any of the others down here
+00:12:43.600 that have my face on them uh on the
+00:12:45.360 little sidebar wherever you might be i
+00:12:47.440 invite you to go check those out and if
+00:12:48.639 you do enjoy them i invite you to
+00:12:50.639 subscribe i come back with videos every
+00:12:52.000 monday all right that's it for now you
+00:12:53.440 guys go out there have an eye opening
+00:12:54.959 rest of the week stay safe and i'll see
+00:12:56.800 you next monday love you guys take care

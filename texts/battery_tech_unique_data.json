@@ -1,0 +1,902 @@
+[
+    {
+        "Battery_ID":"BATX-0001",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":280.72,
+        "Weight_kg":1.74,
+        "Temperature_Range_C":"-13 to 57",
+        "Cost_USD_per_kWh":159.24,
+        "Recyclability_%":80.72
+    },
+    {
+        "Battery_ID":"BATX-0002",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":118.89,
+        "Weight_kg":1.72,
+        "Temperature_Range_C":"-4 to 56",
+        "Cost_USD_per_kWh":92.53,
+        "Recyclability_%":70.31
+    },
+    {
+        "Battery_ID":"BATX-0003",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":172.12,
+        "Weight_kg":0.38,
+        "Temperature_Range_C":"-3 to 54",
+        "Cost_USD_per_kWh":246.58,
+        "Recyclability_%":87.01
+    },
+    {
+        "Battery_ID":"BATX-0004",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":211.78,
+        "Weight_kg":1.48,
+        "Temperature_Range_C":"-20 to 56",
+        "Cost_USD_per_kWh":115.54,
+        "Recyclability_%":76.96
+    },
+    {
+        "Battery_ID":"BATX-0005",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":200.3,
+        "Weight_kg":1.97,
+        "Temperature_Range_C":"-17 to 60",
+        "Cost_USD_per_kWh":138.93,
+        "Recyclability_%":64.39
+    },
+    {
+        "Battery_ID":"BATX-0006",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":239.14,
+        "Weight_kg":0.88,
+        "Temperature_Range_C":"-6 to 50",
+        "Cost_USD_per_kWh":128.33,
+        "Recyclability_%":68.45
+    },
+    {
+        "Battery_ID":"BATX-0007",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":236.62,
+        "Weight_kg":0.67,
+        "Temperature_Range_C":"-3 to 46",
+        "Cost_USD_per_kWh":249.42,
+        "Recyclability_%":84.5
+    },
+    {
+        "Battery_ID":"BATX-0008",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":120.12,
+        "Weight_kg":0.6,
+        "Temperature_Range_C":"-13 to 56",
+        "Cost_USD_per_kWh":89.74,
+        "Recyclability_%":93.15
+    },
+    {
+        "Battery_ID":"BATX-0009",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":234.01,
+        "Weight_kg":1.75,
+        "Temperature_Range_C":"-3 to 46",
+        "Cost_USD_per_kWh":211.51,
+        "Recyclability_%":88.55
+    },
+    {
+        "Battery_ID":"BATX-0010",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":265.05,
+        "Weight_kg":1.65,
+        "Temperature_Range_C":"-17 to 60",
+        "Cost_USD_per_kWh":243.81,
+        "Recyclability_%":81.15
+    },
+    {
+        "Battery_ID":"BATX-0011",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":165.77,
+        "Weight_kg":1.71,
+        "Temperature_Range_C":"-12 to 46",
+        "Cost_USD_per_kWh":132.25,
+        "Recyclability_%":60.17
+    },
+    {
+        "Battery_ID":"BATX-0012",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":260.92,
+        "Weight_kg":1.47,
+        "Temperature_Range_C":"-19 to 60",
+        "Cost_USD_per_kWh":96.65,
+        "Recyclability_%":96.49
+    },
+    {
+        "Battery_ID":"BATX-0013",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":133.14,
+        "Weight_kg":0.23,
+        "Temperature_Range_C":"-4 to 59",
+        "Cost_USD_per_kWh":186.76,
+        "Recyclability_%":96.1
+    },
+    {
+        "Battery_ID":"BATX-0014",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":266.31,
+        "Weight_kg":0.35,
+        "Temperature_Range_C":"-20 to 51",
+        "Cost_USD_per_kWh":83.46,
+        "Recyclability_%":93.21
+    },
+    {
+        "Battery_ID":"BATX-0015",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":195.32,
+        "Weight_kg":1.66,
+        "Temperature_Range_C":"-16 to 49",
+        "Cost_USD_per_kWh":143.41,
+        "Recyclability_%":64.94
+    },
+    {
+        "Battery_ID":"BATX-0016",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":160.42,
+        "Weight_kg":0.31,
+        "Temperature_Range_C":"-4 to 48",
+        "Cost_USD_per_kWh":157.18,
+        "Recyclability_%":69.03
+    },
+    {
+        "Battery_ID":"BATX-0017",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":198.76,
+        "Weight_kg":1.68,
+        "Temperature_Range_C":"-1 to 60",
+        "Cost_USD_per_kWh":161.04,
+        "Recyclability_%":78.69
+    },
+    {
+        "Battery_ID":"BATX-0018",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":291.88,
+        "Weight_kg":1.69,
+        "Temperature_Range_C":"-5 to 60",
+        "Cost_USD_per_kWh":122.69,
+        "Recyclability_%":89.35
+    },
+    {
+        "Battery_ID":"BATX-0019",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":132.3,
+        "Weight_kg":0.84,
+        "Temperature_Range_C":"-8 to 50",
+        "Cost_USD_per_kWh":106.27,
+        "Recyclability_%":91.58
+    },
+    {
+        "Battery_ID":"BATX-0020",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":211.76,
+        "Weight_kg":0.93,
+        "Temperature_Range_C":"-18 to 54",
+        "Cost_USD_per_kWh":221.76,
+        "Recyclability_%":68.94
+    },
+    {
+        "Battery_ID":"BATX-0021",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":204.12,
+        "Weight_kg":1.76,
+        "Temperature_Range_C":"-8 to 60",
+        "Cost_USD_per_kWh":159.59,
+        "Recyclability_%":88.47
+    },
+    {
+        "Battery_ID":"BATX-0022",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":169.01,
+        "Weight_kg":1.13,
+        "Temperature_Range_C":"-5 to 49",
+        "Cost_USD_per_kWh":163.54,
+        "Recyclability_%":91.93
+    },
+    {
+        "Battery_ID":"BATX-0023",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":168.78,
+        "Weight_kg":0.26,
+        "Temperature_Range_C":"-3 to 52",
+        "Cost_USD_per_kWh":186.4,
+        "Recyclability_%":78.97
+    },
+    {
+        "Battery_ID":"BATX-0024",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":238.89,
+        "Weight_kg":0.6,
+        "Temperature_Range_C":"-7 to 54",
+        "Cost_USD_per_kWh":129.93,
+        "Recyclability_%":68.65
+    },
+    {
+        "Battery_ID":"BATX-0025",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":237.53,
+        "Weight_kg":0.28,
+        "Temperature_Range_C":"-19 to 46",
+        "Cost_USD_per_kWh":233.72,
+        "Recyclability_%":84.8
+    },
+    {
+        "Battery_ID":"BATX-0026",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":137.47,
+        "Weight_kg":1.67,
+        "Temperature_Range_C":"-18 to 58",
+        "Cost_USD_per_kWh":230.75,
+        "Recyclability_%":97.75
+    },
+    {
+        "Battery_ID":"BATX-0027",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":195.75,
+        "Weight_kg":0.83,
+        "Temperature_Range_C":"-20 to 55",
+        "Cost_USD_per_kWh":249.39,
+        "Recyclability_%":85.28
+    },
+    {
+        "Battery_ID":"BATX-0028",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":197.32,
+        "Weight_kg":0.48,
+        "Temperature_Range_C":"0 to 51",
+        "Cost_USD_per_kWh":114.39,
+        "Recyclability_%":91.88
+    },
+    {
+        "Battery_ID":"BATX-0029",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":128.87,
+        "Weight_kg":2.0,
+        "Temperature_Range_C":"0 to 46",
+        "Cost_USD_per_kWh":104.95,
+        "Recyclability_%":90.03
+    },
+    {
+        "Battery_ID":"BATX-0030",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":258.85,
+        "Weight_kg":0.86,
+        "Temperature_Range_C":"-11 to 46",
+        "Cost_USD_per_kWh":141.57,
+        "Recyclability_%":82.61
+    },
+    {
+        "Battery_ID":"BATX-0031",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":222.95,
+        "Weight_kg":1.89,
+        "Temperature_Range_C":"-18 to 56",
+        "Cost_USD_per_kWh":192.26,
+        "Recyclability_%":69.13
+    },
+    {
+        "Battery_ID":"BATX-0032",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":284.94,
+        "Weight_kg":0.85,
+        "Temperature_Range_C":"-14 to 54",
+        "Cost_USD_per_kWh":233.85,
+        "Recyclability_%":96.31
+    },
+    {
+        "Battery_ID":"BATX-0033",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":176.68,
+        "Weight_kg":1.91,
+        "Temperature_Range_C":"-1 to 47",
+        "Cost_USD_per_kWh":150.3,
+        "Recyclability_%":83.48
+    },
+    {
+        "Battery_ID":"BATX-0034",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":152.89,
+        "Weight_kg":1.23,
+        "Temperature_Range_C":"-12 to 55",
+        "Cost_USD_per_kWh":152.25,
+        "Recyclability_%":60.8
+    },
+    {
+        "Battery_ID":"BATX-0035",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":203.48,
+        "Weight_kg":1.15,
+        "Temperature_Range_C":"-14 to 49",
+        "Cost_USD_per_kWh":219.06,
+        "Recyclability_%":92.51
+    },
+    {
+        "Battery_ID":"BATX-0036",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":121.53,
+        "Weight_kg":1.67,
+        "Temperature_Range_C":"-11 to 48",
+        "Cost_USD_per_kWh":112.49,
+        "Recyclability_%":77.21
+    },
+    {
+        "Battery_ID":"BATX-0037",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":291.78,
+        "Weight_kg":0.24,
+        "Temperature_Range_C":"-5 to 53",
+        "Cost_USD_per_kWh":211.0,
+        "Recyclability_%":92.47
+    },
+    {
+        "Battery_ID":"BATX-0038",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":124.06,
+        "Weight_kg":0.95,
+        "Temperature_Range_C":"-15 to 49",
+        "Cost_USD_per_kWh":223.51,
+        "Recyclability_%":89.84
+    },
+    {
+        "Battery_ID":"BATX-0039",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":241.62,
+        "Weight_kg":0.49,
+        "Temperature_Range_C":"-6 to 57",
+        "Cost_USD_per_kWh":146.61,
+        "Recyclability_%":82.07
+    },
+    {
+        "Battery_ID":"BATX-0040",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":288.05,
+        "Weight_kg":1.59,
+        "Temperature_Range_C":"-4 to 58",
+        "Cost_USD_per_kWh":217.52,
+        "Recyclability_%":62.12
+    },
+    {
+        "Battery_ID":"BATX-0041",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":212.3,
+        "Weight_kg":1.89,
+        "Temperature_Range_C":"0 to 58",
+        "Cost_USD_per_kWh":82.99,
+        "Recyclability_%":60.22
+    },
+    {
+        "Battery_ID":"BATX-0042",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":159.25,
+        "Weight_kg":1.74,
+        "Temperature_Range_C":"-16 to 57",
+        "Cost_USD_per_kWh":173.28,
+        "Recyclability_%":96.18
+    },
+    {
+        "Battery_ID":"BATX-0043",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":103.36,
+        "Weight_kg":0.8,
+        "Temperature_Range_C":"-5 to 48",
+        "Cost_USD_per_kWh":88.69,
+        "Recyclability_%":78.81
+    },
+    {
+        "Battery_ID":"BATX-0044",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":159.33,
+        "Weight_kg":1.3,
+        "Temperature_Range_C":"-6 to 53",
+        "Cost_USD_per_kWh":157.87,
+        "Recyclability_%":81.21
+    },
+    {
+        "Battery_ID":"BATX-0045",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":140.76,
+        "Weight_kg":0.62,
+        "Temperature_Range_C":"-18 to 56",
+        "Cost_USD_per_kWh":81.29,
+        "Recyclability_%":69.3
+    },
+    {
+        "Battery_ID":"BATX-0046",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":200.82,
+        "Weight_kg":1.56,
+        "Temperature_Range_C":"-15 to 45",
+        "Cost_USD_per_kWh":130.45,
+        "Recyclability_%":91.21
+    },
+    {
+        "Battery_ID":"BATX-0047",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":118.91,
+        "Weight_kg":0.81,
+        "Temperature_Range_C":"-1 to 57",
+        "Cost_USD_per_kWh":215.39,
+        "Recyclability_%":95.94
+    },
+    {
+        "Battery_ID":"BATX-0048",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":103.66,
+        "Weight_kg":1.45,
+        "Temperature_Range_C":"-13 to 45",
+        "Cost_USD_per_kWh":189.03,
+        "Recyclability_%":76.44
+    },
+    {
+        "Battery_ID":"BATX-0049",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":212.97,
+        "Weight_kg":1.24,
+        "Temperature_Range_C":"-12 to 60",
+        "Cost_USD_per_kWh":121.72,
+        "Recyclability_%":92.17
+    },
+    {
+        "Battery_ID":"BATX-0050",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":229.13,
+        "Weight_kg":1.89,
+        "Temperature_Range_C":"-1 to 56",
+        "Cost_USD_per_kWh":164.63,
+        "Recyclability_%":69.61
+    },
+    {
+        "Battery_ID":"BATX-0051",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":122.37,
+        "Weight_kg":1.39,
+        "Temperature_Range_C":"-11 to 48",
+        "Cost_USD_per_kWh":129.04,
+        "Recyclability_%":63.87
+    },
+    {
+        "Battery_ID":"BATX-0052",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":225.5,
+        "Weight_kg":1.59,
+        "Temperature_Range_C":"-16 to 46",
+        "Cost_USD_per_kWh":147.76,
+        "Recyclability_%":93.12
+    },
+    {
+        "Battery_ID":"BATX-0053",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":181.95,
+        "Weight_kg":0.59,
+        "Temperature_Range_C":"-7 to 46",
+        "Cost_USD_per_kWh":213.66,
+        "Recyclability_%":80.22
+    },
+    {
+        "Battery_ID":"BATX-0054",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":150.39,
+        "Weight_kg":0.36,
+        "Temperature_Range_C":"-18 to 56",
+        "Cost_USD_per_kWh":225.12,
+        "Recyclability_%":77.07
+    },
+    {
+        "Battery_ID":"BATX-0055",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":162.16,
+        "Weight_kg":0.83,
+        "Temperature_Range_C":"-17 to 49",
+        "Cost_USD_per_kWh":228.98,
+        "Recyclability_%":81.06
+    },
+    {
+        "Battery_ID":"BATX-0056",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":100.54,
+        "Weight_kg":0.68,
+        "Temperature_Range_C":"-2 to 52",
+        "Cost_USD_per_kWh":135.36,
+        "Recyclability_%":69.77
+    },
+    {
+        "Battery_ID":"BATX-0057",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":131.13,
+        "Weight_kg":0.24,
+        "Temperature_Range_C":"-12 to 56",
+        "Cost_USD_per_kWh":167.53,
+        "Recyclability_%":76.14
+    },
+    {
+        "Battery_ID":"BATX-0058",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":121.68,
+        "Weight_kg":1.92,
+        "Temperature_Range_C":"-13 to 52",
+        "Cost_USD_per_kWh":87.58,
+        "Recyclability_%":61.15
+    },
+    {
+        "Battery_ID":"BATX-0059",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":194.64,
+        "Weight_kg":0.65,
+        "Temperature_Range_C":"-13 to 55",
+        "Cost_USD_per_kWh":156.21,
+        "Recyclability_%":80.63
+    },
+    {
+        "Battery_ID":"BATX-0060",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":132.05,
+        "Weight_kg":1.34,
+        "Temperature_Range_C":"-16 to 47",
+        "Cost_USD_per_kWh":133.97,
+        "Recyclability_%":62.85
+    },
+    {
+        "Battery_ID":"BATX-0061",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":263.94,
+        "Weight_kg":1.96,
+        "Temperature_Range_C":"-7 to 57",
+        "Cost_USD_per_kWh":209.76,
+        "Recyclability_%":81.35
+    },
+    {
+        "Battery_ID":"BATX-0062",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":259.85,
+        "Weight_kg":1.66,
+        "Temperature_Range_C":"-12 to 59",
+        "Cost_USD_per_kWh":201.0,
+        "Recyclability_%":87.61
+    },
+    {
+        "Battery_ID":"BATX-0063",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":144.83,
+        "Weight_kg":0.37,
+        "Temperature_Range_C":"-9 to 60",
+        "Cost_USD_per_kWh":228.94,
+        "Recyclability_%":60.27
+    },
+    {
+        "Battery_ID":"BATX-0064",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":234.15,
+        "Weight_kg":1.58,
+        "Temperature_Range_C":"-15 to 54",
+        "Cost_USD_per_kWh":157.97,
+        "Recyclability_%":70.17
+    },
+    {
+        "Battery_ID":"BATX-0065",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":223.01,
+        "Weight_kg":1.23,
+        "Temperature_Range_C":"-2 to 49",
+        "Cost_USD_per_kWh":153.06,
+        "Recyclability_%":73.06
+    },
+    {
+        "Battery_ID":"BATX-0066",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":189.85,
+        "Weight_kg":0.23,
+        "Temperature_Range_C":"-2 to 52",
+        "Cost_USD_per_kWh":215.39,
+        "Recyclability_%":88.69
+    },
+    {
+        "Battery_ID":"BATX-0067",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":207.14,
+        "Weight_kg":0.86,
+        "Temperature_Range_C":"-11 to 45",
+        "Cost_USD_per_kWh":208.14,
+        "Recyclability_%":89.34
+    },
+    {
+        "Battery_ID":"BATX-0068",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":156.92,
+        "Weight_kg":1.53,
+        "Temperature_Range_C":"-18 to 47",
+        "Cost_USD_per_kWh":150.8,
+        "Recyclability_%":94.13
+    },
+    {
+        "Battery_ID":"BATX-0069",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":260.11,
+        "Weight_kg":1.01,
+        "Temperature_Range_C":"-3 to 54",
+        "Cost_USD_per_kWh":191.25,
+        "Recyclability_%":83.35
+    },
+    {
+        "Battery_ID":"BATX-0070",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":293.5,
+        "Weight_kg":1.06,
+        "Temperature_Range_C":"-16 to 55",
+        "Cost_USD_per_kWh":226.06,
+        "Recyclability_%":70.47
+    },
+    {
+        "Battery_ID":"BATX-0071",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":244.48,
+        "Weight_kg":0.5,
+        "Temperature_Range_C":"-3 to 49",
+        "Cost_USD_per_kWh":94.89,
+        "Recyclability_%":70.53
+    },
+    {
+        "Battery_ID":"BATX-0072",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":206.46,
+        "Weight_kg":0.86,
+        "Temperature_Range_C":"-3 to 57",
+        "Cost_USD_per_kWh":164.68,
+        "Recyclability_%":79.84
+    },
+    {
+        "Battery_ID":"BATX-0073",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":129.03,
+        "Weight_kg":1.53,
+        "Temperature_Range_C":"-11 to 56",
+        "Cost_USD_per_kWh":117.87,
+        "Recyclability_%":97.82
+    },
+    {
+        "Battery_ID":"BATX-0074",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":292.29,
+        "Weight_kg":0.71,
+        "Temperature_Range_C":"-14 to 60",
+        "Cost_USD_per_kWh":235.78,
+        "Recyclability_%":69.43
+    },
+    {
+        "Battery_ID":"BATX-0075",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":234.68,
+        "Weight_kg":0.79,
+        "Temperature_Range_C":"-10 to 55",
+        "Cost_USD_per_kWh":181.36,
+        "Recyclability_%":81.74
+    },
+    {
+        "Battery_ID":"BATX-0076",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":120.06,
+        "Weight_kg":1.86,
+        "Temperature_Range_C":"-2 to 55",
+        "Cost_USD_per_kWh":82.01,
+        "Recyclability_%":80.39
+    },
+    {
+        "Battery_ID":"BATX-0077",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":171.95,
+        "Weight_kg":0.46,
+        "Temperature_Range_C":"-2 to 45",
+        "Cost_USD_per_kWh":124.39,
+        "Recyclability_%":92.06
+    },
+    {
+        "Battery_ID":"BATX-0078",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":266.24,
+        "Weight_kg":1.92,
+        "Temperature_Range_C":"-14 to 56",
+        "Cost_USD_per_kWh":81.74,
+        "Recyclability_%":76.85
+    },
+    {
+        "Battery_ID":"BATX-0079",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":151.3,
+        "Weight_kg":0.99,
+        "Temperature_Range_C":"-8 to 48",
+        "Cost_USD_per_kWh":219.31,
+        "Recyclability_%":79.93
+    },
+    {
+        "Battery_ID":"BATX-0080",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":161.18,
+        "Weight_kg":1.85,
+        "Temperature_Range_C":"-7 to 59",
+        "Cost_USD_per_kWh":216.11,
+        "Recyclability_%":89.48
+    },
+    {
+        "Battery_ID":"BATX-0081",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":261.79,
+        "Weight_kg":1.13,
+        "Temperature_Range_C":"-1 to 48",
+        "Cost_USD_per_kWh":174.35,
+        "Recyclability_%":87.06
+    },
+    {
+        "Battery_ID":"BATX-0082",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":159.41,
+        "Weight_kg":0.7,
+        "Temperature_Range_C":"-8 to 59",
+        "Cost_USD_per_kWh":159.61,
+        "Recyclability_%":69.09
+    },
+    {
+        "Battery_ID":"BATX-0083",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":227.81,
+        "Weight_kg":1.91,
+        "Temperature_Range_C":"-14 to 49",
+        "Cost_USD_per_kWh":200.8,
+        "Recyclability_%":82.42
+    },
+    {
+        "Battery_ID":"BATX-0084",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":154.7,
+        "Weight_kg":1.78,
+        "Temperature_Range_C":"-9 to 55",
+        "Cost_USD_per_kWh":177.54,
+        "Recyclability_%":79.85
+    },
+    {
+        "Battery_ID":"BATX-0085",
+        "Manufacturer":"Samsung SDI",
+        "Energy_Density_Wh_per_kg":148.45,
+        "Weight_kg":1.43,
+        "Temperature_Range_C":"-17 to 52",
+        "Cost_USD_per_kWh":90.17,
+        "Recyclability_%":75.4
+    },
+    {
+        "Battery_ID":"BATX-0086",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":293.54,
+        "Weight_kg":1.12,
+        "Temperature_Range_C":"-14 to 50",
+        "Cost_USD_per_kWh":194.69,
+        "Recyclability_%":97.92
+    },
+    {
+        "Battery_ID":"BATX-0087",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":291.46,
+        "Weight_kg":1.96,
+        "Temperature_Range_C":"-6 to 47",
+        "Cost_USD_per_kWh":131.94,
+        "Recyclability_%":84.39
+    },
+    {
+        "Battery_ID":"BATX-0088",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":206.92,
+        "Weight_kg":0.26,
+        "Temperature_Range_C":"0 to 46",
+        "Cost_USD_per_kWh":223.09,
+        "Recyclability_%":80.18
+    },
+    {
+        "Battery_ID":"BATX-0089",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":215.63,
+        "Weight_kg":1.96,
+        "Temperature_Range_C":"-19 to 49",
+        "Cost_USD_per_kWh":103.52,
+        "Recyclability_%":71.83
+    },
+    {
+        "Battery_ID":"BATX-0090",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":269.72,
+        "Weight_kg":0.93,
+        "Temperature_Range_C":"-4 to 49",
+        "Cost_USD_per_kWh":157.56,
+        "Recyclability_%":93.99
+    },
+    {
+        "Battery_ID":"BATX-0091",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":110.81,
+        "Weight_kg":0.48,
+        "Temperature_Range_C":"-18 to 53",
+        "Cost_USD_per_kWh":84.0,
+        "Recyclability_%":76.94
+    },
+    {
+        "Battery_ID":"BATX-0092",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":269.76,
+        "Weight_kg":1.02,
+        "Temperature_Range_C":"-17 to 57",
+        "Cost_USD_per_kWh":104.9,
+        "Recyclability_%":91.06
+    },
+    {
+        "Battery_ID":"BATX-0093",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":247.57,
+        "Weight_kg":1.35,
+        "Temperature_Range_C":"-11 to 53",
+        "Cost_USD_per_kWh":246.8,
+        "Recyclability_%":82.12
+    },
+    {
+        "Battery_ID":"BATX-0094",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":144.19,
+        "Weight_kg":0.86,
+        "Temperature_Range_C":"0 to 46",
+        "Cost_USD_per_kWh":184.64,
+        "Recyclability_%":69.85
+    },
+    {
+        "Battery_ID":"BATX-0095",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":164.79,
+        "Weight_kg":1.44,
+        "Temperature_Range_C":"-15 to 57",
+        "Cost_USD_per_kWh":122.99,
+        "Recyclability_%":61.32
+    },
+    {
+        "Battery_ID":"BATX-0096",
+        "Manufacturer":"Panasonic",
+        "Energy_Density_Wh_per_kg":145.07,
+        "Weight_kg":1.73,
+        "Temperature_Range_C":"-19 to 47",
+        "Cost_USD_per_kWh":160.89,
+        "Recyclability_%":72.39
+    },
+    {
+        "Battery_ID":"BATX-0097",
+        "Manufacturer":"BYD",
+        "Energy_Density_Wh_per_kg":221.42,
+        "Weight_kg":0.77,
+        "Temperature_Range_C":"-14 to 56",
+        "Cost_USD_per_kWh":97.58,
+        "Recyclability_%":60.04
+    },
+    {
+        "Battery_ID":"BATX-0098",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":294.01,
+        "Weight_kg":1.43,
+        "Temperature_Range_C":"-4 to 57",
+        "Cost_USD_per_kWh":187.43,
+        "Recyclability_%":83.39
+    },
+    {
+        "Battery_ID":"BATX-0099",
+        "Manufacturer":"CATL",
+        "Energy_Density_Wh_per_kg":240.28,
+        "Weight_kg":1.32,
+        "Temperature_Range_C":"-2 to 59",
+        "Cost_USD_per_kWh":84.6,
+        "Recyclability_%":81.94
+    },
+    {
+        "Battery_ID":"BATX-0100",
+        "Manufacturer":"LG Chem",
+        "Energy_Density_Wh_per_kg":128.04,
+        "Weight_kg":0.48,
+        "Temperature_Range_C":"-15 to 45",
+        "Cost_USD_per_kWh":185.47,
+        "Recyclability_%":89.91
+    }
+]

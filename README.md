@@ -1,6 +1,1 @@
 # genAI\_project
-
-
-
-cloned
-

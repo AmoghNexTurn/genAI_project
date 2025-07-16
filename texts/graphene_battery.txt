@@ -1,0 +1,525 @@
+00:00:00.000 No text
+00:00:01.680 this is a paper clip
+00:00:03.919 paperclip weighs about one gram each and
+00:00:06.399 it's made out of steel which means it's
+00:00:08.160 electrically conductive so you
+00:00:09.360 definitely don't want to stick one in a
+00:00:10.639 light socket materials are electrically
+00:00:12.480 conductive because electrons can freely
+00:00:14.160 move across its surface and the more
+00:00:15.679 surface area it has the more electrons
+00:00:17.520 it can hold now paperclip obviously
+00:00:19.119 doesn't have a whole lot of surface area
+00:00:20.640 on it if you flattened it as flat as
+00:00:22.240 humanly possible you might get one
+00:00:25.039 square foot of surface area
+00:00:27.840 maybe
+00:00:28.800 and then there's graphene
+00:00:30.400 now you've probably heard graphene refer
+00:00:32.159 to as a wonder material for all the
+00:00:33.840 crazy things that it can do and the
+00:00:35.280 reason that it can do all these crazy
+00:00:37.360 things is because graphene
+00:00:39.520 is only one atom thick so if you folded
+00:00:42.079 up one gram of graphene it would have
+00:00:43.760 the same surface area of not one
+00:00:47.280 not two
+00:00:48.800 but
+00:00:49.520 ten tennis courts
+00:00:52.079 that's a lot of electrons
+00:00:54.239 and a lot of potential
+00:00:56.130 [Music]
+00:00:58.559 saying the words lithium ion before
+00:01:00.000 No text
+00:01:00.559 battery is practically a redundant these
+00:01:02.239 days i mean let's face it lithium-ion
+00:01:04.159 one
+00:01:05.040 these are the batteries that power our
+00:01:06.479 cell phones tablets computers even our
+00:01:08.479 cars
+00:01:09.680 we are officially a world run by lithium
+00:01:11.600 ion
+00:01:12.960 you might say they have the le ions
+00:01:15.520 share of the market
+00:01:20.080 i don't know
+00:01:21.200 but lithium ion batteries aren't perfect
+00:01:23.280 i mean they're good enough
+00:01:26.560 but they do have their downsides i'm
+00:01:28.479 sorry are all my puns giving you a
+00:01:30.560 charge
+00:01:32.159 i'll stop
+00:01:33.439 one problem we continue to have with
+00:01:35.040 lithium ion batteries is safety these
+00:01:37.200 batteries run hot
+00:01:38.640 and yeah if not properly configured they
+00:01:40.479 can burst into flames uh you might
+00:01:42.399 remember in 2016 2.5 million smartphones
+00:01:45.040 were recalled after some of them burst
+00:01:46.399 into flames in people's pockets and bags
+00:01:48.479 and don't get me wrong they've gotten
+00:01:49.840 safer over the years but that safety
+00:01:51.360 comes with the cost ev batteries for
+00:01:53.280 example they've got extensive cooling
+00:01:55.040 systems woven into them to keep their
+00:01:56.399 temperatures at an optimal level this
+00:01:58.240 not only complicates the design and
+00:01:59.759 makes it more expensive these cooling
+00:02:01.200 systems take up space that could be used
+00:02:03.119 storing energy and all of which lowers
+00:02:05.280 the pack density and don't even get me
+00:02:07.040 started on how much it complicates
+00:02:08.720 recycling these batteries i mean they've
+00:02:10.239 got to break it all apart and there's
+00:02:11.920 all this gel that has been separated
+00:02:13.280 from the recyclable metals which is
+00:02:14.800 super important because there you go you
+00:02:16.400 did it you got me going no battery
+00:02:18.480 recycling is super important because the
+00:02:19.920 materials that these batteries are made
+00:02:21.440 out of are not easy to come by for
+00:02:23.280 example i did a whole video on the
+00:02:24.720 cobalt problem with lithium ion
+00:02:26.160 batteries now it takes a lot of it from
+00:02:28.080 artisanal mines in the congo that
+00:02:29.680 exploit child labor and really dangerous
+00:02:31.360 conditions now a lot of work has been
+00:02:33.120 done to source cobalt more ethically and
+00:02:34.800 battery makers are cutting down on the
+00:02:36.400 use of cobalt but it's still an issue
+00:02:38.319 the point being these batteries do have
+00:02:40.640 a finite life cycle and we need to be
+00:02:42.879 able to recycle them
+00:02:44.400 but for all the reasons that i just
+00:02:45.519 pointed out it's still far more
+00:02:46.800 expensive to recycle lithium ion
+00:02:48.239 batteries and just build new ones in
+00:02:49.760 fact when i looked i saw that only 10
+00:02:52.080 percent of lithium-ion batteries get
+00:02:53.840 recycled
+00:02:55.360 now to be fair this was an article from
+00:02:56.800 2016 so hopefully it's gotten better
+00:02:58.319 since then but still and all these
+00:03:00.239 issues are on top of the fact that
+00:03:02.840 well there's still a lot of room for
+00:03:04.879 improvement look let's be fair the
+00:03:06.560 reason that they went out is because
+00:03:07.760 they were leaps and bounds above the
+00:03:09.280 options that we had before but still two
+00:03:11.280 hours to charge your phone
+00:03:14.159 i mean what is this the stone age it's
+00:03:16.560 not the stone age it's the phonage
+00:03:22.080 yeah i know i know so researchers around
+00:03:24.319 the world are working on the next big
+00:03:25.000 No text
+00:03:25.920 thing in energy storage
+00:03:27.680 there's like a half a million new
+00:03:29.200 battery chemistries being worked on i've
+00:03:30.799 covered most of them already but the
+00:03:32.480 battery i want to talk about today is
+00:03:33.840 different because it does its magic
+00:03:35.599 using graphene and let me tell you
+00:03:37.920 something when i hear about a new
+00:03:39.680 technology that uses graphene i uh
+00:03:45.040 i i don't know how to feel about it
+00:03:47.280 because we have been hearing about
+00:03:48.720 graphene and how it's going to change
+00:03:50.000 the world for so
+00:03:51.599 long it just starts to feel like it's a
+00:03:53.760 football we just can't kick like the
+00:03:55.519 potential of graphene is off the charts
+00:03:57.840 it could potentially revolutionize
+00:03:59.360 everything from construction materials
+00:04:01.200 semiconductors clothing even make a
+00:04:03.120 space elevator possible so much
+00:04:05.200 potential and yet
+00:04:09.200 graphene is like that gifted kid that
+00:04:10.799 was always told they had so much
+00:04:12.159 potential you know but then they
+00:04:14.400 just
+00:04:15.280 never believed in themselves enough or
+00:04:18.079 never
+00:04:19.040 learned how to apply themselves and
+00:04:20.560 execute on that potential so they just
+00:04:22.240 kind of
+00:04:23.360 flounder around on the internet for a
+00:04:25.520 while and then they eventually become a
+00:04:28.400 mid-tier content creator in their 40s
+00:04:34.510 [Music]
+00:04:38.080 but hey producing graphene is hard which
+00:04:40.560 is why it makes this battery really
+00:04:41.840 interesting the company that designed it
+00:04:43.600 is a graphene manufacturer so not only
+00:04:45.840 are they some of the biggest experts in
+00:04:47.199 the world on graphene they make it
+00:04:48.960 in-house so they don't have to pay
+00:04:50.320 retail for it might possibly make the
+00:04:52.400 cost of these batteries less now before
+00:04:54.240 i get into the battery itself let's just
+00:04:56.080 back up a second and talk about why
+00:04:57.759 graphene has these wonder properties in
+00:04:59.360 the first place it's kind of important
+00:05:01.199 to the rest of it graphene is basically
+00:05:03.039 carbon
+00:05:04.000 which actually makes up 12 of your body
+00:05:05.840 so you're familiar with it but unlike
+00:05:07.600 the carbon in your body in graphene the
+00:05:09.360 carbon atoms are arranged in a honeycomb
+00:05:11.120 pattern literally one atom thick
+00:05:13.680 and this is where it gets its crazy
+00:05:14.960 properties the bonds in this pattern
+00:05:16.639 give graphene more than four times the
+00:05:18.320 tensile strength of steel while still
+00:05:19.840 being extremely flexible and light it
+00:05:21.759 also makes it an excellent conductor of
+00:05:23.199 electricity and heat
+00:05:24.960 good things to have in a battery but an
+00:05:26.320 even better thing to have in a super
+00:05:27.919 capacitor all right so capacitors are
+00:05:28.000 No text
+00:05:30.000 devices that store energy similar to
+00:05:31.840 batteries but instead of storing the
+00:05:33.120 energy in chemical reactions they store
+00:05:35.039 it on the surface of electrodes and this
+00:05:36.800 means they can be charged extremely
+00:05:38.320 quickly because they don't have to rely
+00:05:39.680 on chemical reactions to store the
+00:05:41.120 energy the downside is energy density
+00:05:44.560 as in they don't have much of it the
+00:05:46.960 energy density of a typical capacitor is
+00:05:48.880 about 1 3 of a watt hour per kilogram
+00:05:51.280 for comparison a one kilogram lithium
+00:05:53.199 ion battery can store hundreds of watt
+00:05:54.880 hours so the trick to getting a
+00:05:56.319 capacitor to increase its energy density
+00:05:58.160 is to increase its surface area of the
+00:05:59.680 electrodes and for that you need an
+00:06:02.479 extremely thin extremely flexible
+00:06:04.720 material that's electrically conductive
+00:06:06.639 and manages heat really well that you
+00:06:08.080 can fold up into a tiny space and as i
+00:06:10.560 pointed out in the intro this video one
+00:06:12.639 gram of graphene has a surface area of
+00:06:15.240 2629 square meters
+00:06:18.000 roughly the size of 10 tennis courts now
+00:06:19.840 i've been talking about capacitors here
+00:06:21.360 super capacitors are obviously
+00:06:23.199 capacitors that have been turned up to
+00:06:24.639 11.
+00:06:25.919 and then there's ultra capacitors which
+00:06:27.520 have been turned up to
+00:06:31.840 more than 11.
+00:06:33.680 but even a massively upside
+00:06:35.280 supercapacitor can't compete with the
+00:06:36.720 energy density of advanced chemical
+00:06:38.240 battery which is why researchers at the
+00:06:40.240 university of queensland in australia
+00:06:41.759 have developed a graphene-based
+00:06:43.360 supercapacitor battery hybrid this
+00:06:45.680 battery uses aluminum so it's generally
+00:06:47.000 No text
+00:06:47.440 referred to as a graphene aluminum
+00:06:48.880 battery now i would love to go into the
+00:06:50.479 details of the design and and how it
+00:06:52.479 works but a lot of it is proprietary and
+00:06:54.160 what i did find i'll be honest
+00:06:56.720 pretty much went over my head but i will
+00:06:58.479 say that it involves embedding aluminum
+00:07:00.479 ions into perforations in the graphene
+00:07:02.479 mesh this creates a graphene aluminum
+00:07:04.479 later that acts as a cathode with an
+00:07:06.000 anode of just plain aluminum foil the
+00:07:07.840 battery as a whole has an energy density
+00:07:09.520 of 150 to 160 watt hours per kilogram
+00:07:12.400 and it can still charge extremely fast
+00:07:14.479 sounds great but tesla's new 4680
+00:07:17.039 battery sells closer to 265 watt hours
+00:07:19.680 per kilogram
+00:07:20.880 so there's definitely still a big gap
+00:07:22.240 there but
+00:07:23.840 it might not be as big of a gap as you
+00:07:25.440 might think because that's talking about
+00:07:26.960 cell density you also have to think
+00:07:28.000 No text
+00:07:28.880 about pack density like i was saying
+00:07:30.560 before lithium ion batteries have to
+00:07:32.160 have massive cooling systems built into
+00:07:33.840 their battery packs to keep it from
+00:07:35.039 overheating this battery wouldn't have
+00:07:36.880 that issue so all that extra space could
+00:07:39.440 be taken up with energy storing
+00:07:41.120 batteries
+00:07:42.319 it might not put it perfectly on par
+00:07:43.840 with a tesla pack but it does close the
+00:07:45.280 gap a bit so the university of
+00:07:46.800 queensland developed the battery but as
+00:07:48.240 i mentioned before there's a graphene
+00:07:49.599 manufacturer that's producing it that
+00:07:51.520 company is called the graphene
+00:07:52.879 manufacturing group or gmg and they've
+00:07:55.440 built a prototype that can reportedly
+00:07:57.039 charge 60 times faster than a
+00:07:58.720 lithium-ion battery so while their
+00:08:00.400 battery pack might not take an ev quite
+00:08:02.720 as far charging will be a lot closer to
+00:08:04.879 the experience of filling up with the
+00:08:06.319 gas pump which could open up evs to more
+00:08:08.400 people who don't have access to home
+00:08:09.759 chargers today of course i'm spending
+00:08:11.199 all this time talking about avs it would
+00:08:12.560 be just as world changing for everything
+00:08:13.840 else we use you know our phones our
+00:08:15.280 watches our computers
+00:08:17.360 you could plug in your laptop and go
+00:08:18.879 take a leak and come back and it'll be
+00:08:20.400 full of charge also keep in mind
+00:08:22.000 everything that i'm saying here applies
+00:08:23.440 to their prototype battery it's still
+00:08:25.599 the very early days of this technology
+00:08:27.520 in a presentation back in march to the
+00:08:29.120 graphene council founder and ceo craig
+00:08:31.280 nichols said that the energy density of
+00:08:32.640 this battery has a theoretical upper
+00:08:34.240 limit of 1050 watt hours per kilogram
+00:08:37.039 and their team's currently testing 300
+00:08:39.039 000 variations on the design in pursuit
+00:08:41.039 of better performance now i can only
+00:08:42.000 No text
+00:08:42.640 imagine that those tests are being done
+00:08:44.240 with ai in some way but these tests are
+00:08:46.800 happening at a pilot plant the company
+00:08:48.160 opened in december of 2021. and here's
+00:08:50.240 where it does get pretty exciting they
+00:08:52.160 are actually producing batteries at this
+00:08:53.920 plant right now they started
+00:08:55.839 manufacturing coin batteries which are
+00:08:57.680 being shipped to customers for testing
+00:08:59.200 and feedback and they plan to begin
+00:09:00.560 manufacturing pouch pack batteries by
+00:09:02.240 the end of june 2022 in other words
+00:09:04.720 right
+00:09:06.160 now
+00:09:07.200 pouch back batteries are batteries that
+00:09:08.720 are housed in a polymer bag instead of a
+00:09:10.320 solid case but these are the kind of
+00:09:11.839 batteries that you see in phones and
+00:09:13.440 tablets and other small electronics
+00:09:15.040 although there are some evs that run on
+00:09:16.720 pouch pack batteries including the chevy
+00:09:18.160 bolt and not for nothing but late last
+00:09:19.839 year chevy issued a 1.8 billion dollar
+00:09:21.760 recall of the bolt over issues that
+00:09:23.279 their batteries were catching on fire
+00:09:25.760 these wouldn't have that problem and as
+00:09:27.519 if all that wasn't enough to give you a
+00:09:28.959 tech nerd stiffy there's also the fact
+00:09:30.640 that these batteries are fully
+00:09:32.080 recyclable and made from abundant
+00:09:33.600 easy-to-source materials
+00:09:38.240 so what's the catch
+00:09:40.000 No text
+00:09:40.000 as rocky balboa once said life ain't
+00:09:42.000 always sunshine and rainbows of course
+00:09:43.920 there's a catch
+00:09:45.200 and the catch in this case is the price
+00:09:47.200 of graphene right now graphene costs
+00:09:49.040 about 1 000 per kilogram that's for the
+00:09:51.440 highest quality graphene that you would
+00:09:52.880 need for these batteries lithium is
+00:09:54.560 selling for about 80 per kilogram of
+00:09:56.959 course that's just one component of the
+00:09:58.640 lithium-ion battery but still and that's
+00:10:00.480 been the major drawback of all graphene
+00:10:02.240 technologies this whole time it has to
+00:10:03.839 be synthesized you can't just dig
+00:10:05.760 graphene out of the ground the only way
+00:10:07.279 to make it feasible is to reduce the
+00:10:09.040 cost of making it gmg for example is
+00:10:11.040 patented a process for making graphene
+00:10:12.560 out of methane but they're being kind of
+00:10:14.880 cagey about exactly how much it saves
+00:10:16.399 them in production costs but if you're
+00:10:17.839 going to compare the price of graphene
+00:10:19.040 to lithium ion it's only fair to
+00:10:20.720 consider the fact that once upon a time
+00:10:23.200 lithium ion was prohibitively expensive
+00:10:25.360 the price of lithium-ion battery storage
+00:10:27.120 has plummeted over the last couple of
+00:10:28.959 decades and it's now flirting with 100
+00:10:30.720 per kilowatt hour it is more than
+00:10:32.399 possible that graphene could follow the
+00:10:33.839 same trajectory once a sustainable
+00:10:35.440 inexpensive process is perfected
+00:10:37.600 and there's a lot of projects working on
+00:10:39.200 that one that's definitely worth talking
+00:10:40.000 No text
+00:10:41.200 about is a team from rice university
+00:10:42.959 who's working in collaboration with ford
+00:10:44.959 they're working on a way of recycling
+00:10:46.720 plastic in a graphene uh kill two birds
+00:10:49.200 with one stone yes please professor
+00:10:51.519 james tour and his team were able to
+00:10:52.880 turn plastic into graphene car parts and
+00:10:54.880 they were able to recycle old graphene
+00:10:56.800 and new graphene the question of course
+00:10:58.640 is whether or not this graphene is high
+00:11:00.079 enough quality for these types of
+00:11:01.279 batteries now we wanted to get the
+00:11:02.640 answer to this so my writer ryan
+00:11:04.160 actually emailed professor tour and he
+00:11:06.079 asked him if their flash joule heating
+00:11:07.760 method is of high quality and he was
+00:11:09.360 kind enough to respond he said quote
+00:11:12.240 flash graphene is one of the purest
+00:11:13.760 graphene forms you can get
+00:11:16.480 unquote but while he did agree that his
+00:11:18.959 method could possibly make graphene
+00:11:20.640 prices drop he was careful to say that
+00:11:22.399 it's only as much as the market can bear
+00:11:24.240 and yeah it's going to be a while before
+00:11:25.839 the supply catches up to the demand so
+00:11:27.600 you won't be like flossing with graphene
+00:11:30.160 dental floss anytime soon now there is
+00:11:32.480 one more problem with gmg's graphene
+00:11:34.000 No text
+00:11:34.640 battery and that's voltage for example
+00:11:36.399 their coin cell that hits the market
+00:11:37.760 this year it delivers 1.7 volts and most
+00:11:40.880 small electronics require at least three
+00:11:42.560 volts now that doesn't mean it can't be
+00:11:44.079 used you can combine cells to get what
+00:11:45.920 you need this is true of other types of
+00:11:47.279 batteries too but there are some devices
+00:11:49.120 that only take a single cell like
+00:11:50.720 computer chips watches some toys and gmg
+00:11:53.920 wants to make it so those manufacturers
+00:11:55.440 don't have to change their design but
+00:11:56.800 they're totally confident that one of
+00:11:58.160 these 300 000 variations that they're
+00:11:59.839 working on will wind up doing the job
+00:12:01.760 they just
+00:12:02.800 need time to find which one of course
+00:12:04.880 battery technology is advancing and
+00:12:06.480 evolving so fast it's possible that you
+00:12:08.800 know some other breakthrough might make
+00:12:10.240 all this irrelevant i feel like that can
+00:12:12.079 be said about pretty much everything
+00:12:13.279 these days though but hey let's focus on
+00:12:15.440 the good news here there is an actual
+00:12:17.120 graphene based battery hitting the
+00:12:18.639 market this year also i feel like i
+00:12:20.880 didn't mention that gmg does have some
+00:12:22.399 partnerships with some major big name
+00:12:24.160 companies including the tool
+00:12:25.279 manufacturer bosch and the mining
+00:12:26.880 company rio tinto so let's hope that
+00:12:28.800 something actually comes with this
+00:12:29.760 because man you know an ethically
+00:12:31.680 sourced fully recyclable fast charging
+00:12:33.600 battery would be a game changer and
+00:12:35.680 it'll be nice to see this super material
+00:12:37.200 we've been hearing about for decades
+00:12:38.480 finally in action i mean i'm still
+00:12:40.079 holding out for that space elevator but
+00:12:41.680 you know
+00:12:43.360 got to start somewhere but i don't know
+00:12:45.040 what do you think is this worth getting
+00:12:46.399 excited about are we just going to have
+00:12:47.760 the football yanked out from under us
+00:12:49.680 once again
+00:12:50.880 sound off in the comments and let me
+00:12:52.000 know i also can't help but wonder if
+00:12:53.519 there's another super material in our
+00:12:54.959 future that we haven't yet discovered i
+00:12:56.639 mean the whole history of humanity is
+00:12:58.399 one of constantly finding new innovative
+00:13:00.800 materials that totally change how we
+00:13:02.240 live to get a deeper perspective on that
+00:13:04.320 and how graphene fits into the whole
+00:13:05.600 history of materials manufacturing you
+00:13:07.000 No text
+00:13:07.200 might want to check out the secret life
+00:13:08.560 of materials on curiosity stream this
+00:13:11.040 hour-long program explores the various
+00:13:12.800 materials we've used and innovated on
+00:13:14.399 throughout human history starting with
+00:13:16.079 natural elements like wood and stone all
+00:13:17.920 the way up to alloys plastics
+00:13:19.519 nanotechnology and beyond and it gives a
+00:13:21.839 look at how future developments could
+00:13:23.200 change the way we live and work this of
+00:13:24.959 course is just one of thousands of
+00:13:26.079 documentaries from award-winning
+00:13:27.360 filmmakers from all around the world no
+00:13:29.120 matter what you're into science
+00:13:30.720 technology art history whatever you're
+00:13:32.800 curious about you can stream it there
+00:13:34.720 seriously curiosity stream is pretty
+00:13:36.160 much the best streaming service for
+00:13:37.279 documentaries on the internet and with
+00:13:38.880 your subscription to curiosity stream
+00:13:40.399 you also get access to nebula the
+00:13:42.000 streaming service that i'm a part of as
+00:13:43.440 well as many of your other favorite
+00:13:44.639 educational youtubers where you can see
+00:13:46.399 all of our content early and ad-free
+00:13:48.480 this means both the youtube pre-rolls
+00:13:50.160 and sponsor reads like this one you
+00:13:52.000 don't have to deal with them there it's
+00:13:53.199 also the only place you can see my
+00:13:54.480 series mysteries of the human body and
+00:13:56.079 other nebula originals from other
+00:13:57.360 creators that you can't find anywhere
+00:13:58.720 else and i did just start the forgotten
+00:14:00.560 atrocities series the first episodes up
+00:14:02.320 there in case you missed it it's about
+00:14:03.600 the a civilization that was wiped out
+00:14:05.440 for nutmeg in 1620.
+00:14:07.680 it's insane and now we also have nebula
+00:14:09.920 classes where you can learn new skills
+00:14:11.760 and ideas from your favorite creators in
+00:14:13.360 a structured format so you can really
+00:14:15.120 dive into subjects you love and you can
+00:14:16.720 get both of these services for 26 off an
+00:14:19.120 annual subscription making it a grand
+00:14:20.720 total of 14.79
+00:14:23.279 for an entire year for two streaming
+00:14:25.680 services
+00:14:27.600 just just think about that for a second
+00:14:29.199 okay so if you're curious just head over
+00:14:31.199 to curiositystream.com joe scott to get
+00:14:33.360 started i'll put the link down below
+00:14:35.360 thanks to curiosity stream for
+00:14:36.639 supporting this video and a huge shout
+00:14:38.079 out to the answer files on patreon that
+00:14:39.680 are helping to keep the lights on around
+00:14:40.959 here forming an awesome community i know
+00:14:43.120 i say this every single week but i can't
+00:14:45.040 thank these guys enough there's some new
+00:14:46.320 people that i want to shout out real
+00:14:47.839 quick we've got brogan schwartz widow
+00:14:50.000 sean james murphy allen gibson daniel
+00:14:53.040 mull hal travis kevin widener and gaurav
+00:14:56.000 darmani
+00:14:57.440 thank you guys so much if you would like
+00:14:58.880 to join them and get early access to
+00:15:00.399 videos access to exclusive live streams
+00:15:02.880 and all kinds of other fun shiz just go
+00:15:06.000 to patreon.com answers with joe please
+00:15:08.399 do like and share this video if you
+00:15:09.760 liked it if this is your first time here
+00:15:11.120 maybe click on this video it'll take you
+00:15:12.880 to something similar to what i'm talking
+00:15:14.320 about here because i i've covered all
+00:15:15.839 kinds of battery technology i'll put one
+00:15:17.440 of those over here or you can go look
+00:15:18.959 down below
+00:15:20.079 and any of the other thumbnails that
+00:15:21.760 have my face on you can go check those
+00:15:23.279 out and if you like them i invite you to
+00:15:25.279 subscribe i come back with videos every
+00:15:26.720 monday cool that's it for now you guys
+00:15:28.560 go out there and have an eye opening
+00:15:29.839 rest of the week stay safe stay cool in
+00:15:32.079 this summer heat and i'll see you next
+00:15:34.240 monday
+00:15:35.519 love you guys take care
