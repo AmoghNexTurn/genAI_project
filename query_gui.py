@@ -9,7 +9,10 @@ load_dotenv()
 GROQ_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
-client = QdrantClient(host="localhost", port=6333)
+client = Qdclient = QdrantClient(
+    url="https://4d505c08-c116-400e-8840-9be8f9badd38.us-west-2-0.aws.cloud.qdrant.io:6333",
+    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.tv02mm6jZH5AaWBH6zed2mX8FCORwt8n_vREfBEI2pw"
+)
 collection_name = "battery_chunks"
 
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
