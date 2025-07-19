@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What makes graphene a suitable material for use in supercapacitors?",
+    "answer": "Graphene is highly conductive, extremely thin, and flexible, allowing it to maximize electrode surface area for efficient energy storage."
+  },
+  {
+    "question": "How do capacitors differ from batteries in storing energy?",
+    "answer": "Capacitors store energy on the surface of electrodes without chemical reactions, enabling much faster charging compared to batteries."
+  },
+  {
+    "question": "Why is degradation per 100 cycles important in battery evaluation?",
+    "answer": "It indicates how quickly a battery's performance declines, helping assess its long-term stability and efficiency in repeated usage."
+  },
+  {
+    "question": "What is the role of the Faraday constant in electrochemical cells?",
+    "answer": "It relates the amount of electric charge per mole of electrons transferred during electrochemical reactions, essential for energy calculations."
+  },
+  {
+    "question": "Why are liquid metal batteries considered highly durable?",
+    "answer": "They operate without solid electrodes, reducing mechanical stress and enabling decades of stable performance under thermal cycling conditions."
+  },
+  {
+    "question": "How does the surface area of electrodes impact capacitor performance?",
+    "answer": "Larger electrode surface area increases the amount of energy stored, improving capacitance and overall energy density in capacitors."
+  },
+  {
+    "question": "Why is energy density lower in capacitors than in lithium-ion batteries?",
+    "answer": "Capacitors store energy physically, not chemically, limiting the total energy stored per unit mass compared to lithium-ion batteries."
+  },
+  {
+    "question": "How does voltage influence the energy output of a battery?",
+    "answer": "Higher voltage increases energy output when multiplied by current and time, contributing directly to total watt-hours delivered by a cell."
+  },
+  {
+    "question": "What advantage do solid-state batteries offer over traditional lithium-ion types?",
+    "answer": "Solid-state batteries are safer, more energy dense, and have longer life due to their solid electrolytes and reduced risk of leakage."
+  },
+  {
+    "question": "Why is graphene's surface area crucial in supercapacitor design?",
+    "answer": "Its massive surface area enables high charge accumulation, improving energy storage capacity and charging speed significantly in compact volumes."
+  },
+  {
+    "question": "What determines a battery's efficiency percentage?",
+    "answer": "It reflects how much of the input energy is effectively stored and recovered during operation, excluding energy lost as heat or resistance."
+  },
+  {
+    "question": "How are charge cycles related to battery life?",
+    "answer": "More charge cycles typically indicate a longer battery life, assuming minimal degradation occurs with each full charge and discharge cycle."
+  },
+  {
+    "question": "What is the freezing behavior of liquid metal batteries?",
+    "answer": "When cooled, the liquid metal solidifies but can be reheated to resume operation, making it a reversible and safe feature."
+  },
+  {
+    "question": "Why is thermal stability important in battery materials?",
+    "answer": "Thermal stability prevents overheating, explosions, or performance loss, especially in high-demand or fluctuating temperature environments."
+  },
+  {
+    "question": "How is specific capacitance measured in a supercapacitor?",
+    "answer": "It's calculated using cyclic voltammetry, relating the current response to voltage scan rate and electrode surface area characteristics."
+  },
+  {
+    "question": "What benefits do cellulose-based substrates offer in paper supercapacitors?",
+    "answer": "They provide flexibility, lightweight construction, and compatibility with conductive materials like CNTs for efficient, wearable energy devices."
+  },
+  {
+    "question": "Why are chemical equivalents important in battery chemistry?",
+    "answer": "They define the exact mass of material involved in electron transfer, crucial for calculating energy storage and predicting reaction products."
+  },
+  {
+    "question": "What makes multi-walled carbon nanotubes useful in energy devices?",
+    "answer": "Their high conductivity and structural strength make them ideal for improving charge transport and mechanical stability in electrodes."
+  },
+  {
+    "question": "How does electrode degradation affect overall battery performance?",
+    "answer": "Degraded electrodes reduce capacity, increase internal resistance, and shorten cycle life, negatively impacting battery efficiency and reliability."
+  },
+  {
+    "question": "What role does Na2SO4 play in three-electrode electrochemical testing?",
+    "answer": "It serves as the electrolyte, enabling ion transport and supporting stable electrochemical reactions during electrode performance evaluation."
+  }
+]

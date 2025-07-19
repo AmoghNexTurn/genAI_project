@@ -1,0 +1,12 @@
+You are an expert evaluator. Compare the candidate answer to the reference answer and assign a score from 1 to 5, where:
+1 = completely incorrect
+3 = partially correct
+5 = fully correct
+
+Question: {question}
+
+Reference Answer: {reference_answer}
+
+Candidate Answer: {candidate_answer}
+
+Answer(Only the score from 1-5, avoid giving reasoning or anything, JUST THE NUMERICAL SCORE):
